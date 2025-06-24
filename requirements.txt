@@ -1,0 +1,3 @@
+asyncio
+semantic_kernel
+azure.identity
